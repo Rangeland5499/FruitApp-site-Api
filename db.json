@@ -1,0 +1,523 @@
+{
+  "products": [
+    {
+      "id": "1001",
+      "name": "Apple",
+      "type": "Ingrid Marie",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1002",
+      "name": "Mango",
+      "type": "Juicy",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "55.00"
+    },
+    {
+      "id": "1003",
+      "name": "Orange",
+      "type": "Navelina",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "40.00"
+    },
+    {
+      "id": "1004",
+      "name": "Avocado",
+      "type": "Lorena",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "60.00"
+    },
+    {
+      "id": "1005",
+      "name": "Melon",
+      "type": "Galia",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "40.00"
+    },
+    {
+      "id": "1006",
+      "name": "Avocado",
+      "type": "Reed",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1007",
+      "name": "Clementine",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "60.00"
+    },
+    {
+      "id": "1008",
+      "name": "Cranberries",
+      "type": "Svensk vild",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "35.00"
+    },
+    {
+      "id": "1009",
+      "name": "Durian",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1010",
+      "name": "Mandarin",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1011",
+      "name": "Mango",
+      "type": "Ataulfo",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1012",
+      "name": "Mango",
+      "type": "Nam Dok Mai",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1014",
+      "name": "apple",
+      "type": "Conference",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "30.00"
+    },
+    {
+      "id": "1015",
+      "name": "Pomegranate",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1016",
+      "name": "Strawberries",
+      "type": "Polka",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "35.00"
+    },
+    {
+      "id": "1017",
+      "name": "Watermelon",
+      "type": "Latanus",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "50.00"
+    },
+    {
+      "id": "1018",
+      "name": "Mango",
+      "type": "Bongo",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "65.00"
+    },
+    {
+      "id": "1019",
+      "name": "Lemon",
+      "type": "Chill americano",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "40.00"
+    },
+    {
+      "id": "1020",
+      "name": "Figs",
+      "type": "Arabica",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "50.00"
+    },
+    {
+      "id": "1021",
+      "name": "Grapefruit",
+      "type": "Tampa auch",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "70.00"
+    },
+    {
+      "id": "1022",
+      "name": "Date Fruit",
+      "type": "Gonga",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "65.00"
+    },
+    {
+      "id": "1023",
+      "name": "Coconut",
+      "type": "Funky",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "id": "1024",
+      "name": "Cherry",
+      "type": "Tango",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "40.00"
+    },
+    {
+      "id": "1025",
+      "name": "Melon",
+      "type": "Honka",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45.00"
+    },
+    {
+      "name": "",
+      "type": "",
+      "origin": "",
+      "desc": "",
+      "weight": "",
+      "amount": "",
+      "price": "",
+      "createdAt": 1662201210281,
+      "id": "vdxnzaP"
+    },
+    {
+      "name": "",
+      "type": "",
+      "origin": "",
+      "desc": "",
+      "weight": "",
+      "amount": "",
+      "price": "",
+      "createdAt": 1662201658662,
+      "id": "6EGVdlp"
+    },
+    {
+      "name": "",
+      "type": "",
+      "origin": "",
+      "desc": "",
+      "weight": "",
+      "amount": "",
+      "price": "",
+      "createdAt": 1662358066221,
+      "id": "v7VvUek"
+    },
+    {
+      "name": "apple",
+      "type": "",
+      "origin": "",
+      "desc": "",
+      "weight": "",
+      "amount": "",
+      "price": "",
+      "createdAt": 1662361202594,
+      "id": "XMKSO-9"
+    },
+    {
+      "name": "pear",
+      "type": "",
+      "origin": "",
+      "desc": "",
+      "weight": "",
+      "amount": "",
+      "price": "",
+      "createdAt": 1662361221841,
+      "id": "D_pqDD4"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1001",
+      "name": "Emma Nielsen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1002",
+      "name": "Clara Andersen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonenyholm@hotmail.com",
+        "phone": "50541582"
+      }
+    },
+    {
+      "id": "1003",
+      "name": "Luna Sørensen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1004",
+      "name": "Sofia Pedersen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1005",
+      "name": "Pedersen Jensen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1006",
+      "name": "Victoria Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1007",
+      "name": "Andrea Pedersen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1008",
+      "name": "Elina Nielsen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1009",
+      "name": "Sara Jensen",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1010",
+      "name": "Clara Jensen",
+      "address": {
+        "street": "Hallandsgade 18, 5. th",
+        "zip": "2500",
+        "city": "København N",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1011",
+      "name": "Kimmie Johansson",
+      "address": {
+        "street": "Hallandsgade 18, 5. th",
+        "zip": "2500",
+        "city": "København N",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1012",
+      "name": "Jon Lehrmann",
+      "address": {
+        "street": "Hallandsgade 18, 5. th",
+        "zip": "2500",
+        "city": "København N",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "10006",
+      "orderNumber": "20006",
+      "customerId": "1006",
+      "products": [
+        {
+          "productId": "1016",
+          "amount": "2"
+        }
+      ]
+    },
+    {
+      "id": "10007",
+      "orderNumber": "20007",
+      "customerId": "1007",
+      "products": [
+        {
+          "productId": "1008",
+          "amount": "9"
+        }
+      ]
+    },
+    {
+      "id": "10008",
+      "orderNumber": "20008",
+      "customerId": "1008",
+      "products": [
+        {
+          "productId": "1019",
+          "amount": "6"
+        }
+      ]
+    },
+    {
+      "id": "10011",
+      "orderNumber": "20011",
+      "customerId": "1009",
+      "products": [
+        {
+          "productId": "1011",
+          "amount": "12"
+        }
+      ]
+    },
+    {
+      "id": "10012",
+      "orderNumber": "20012",
+      "customerId": "1009",
+      "products": [
+        {
+          "productId": "1011",
+          "amount": "3"
+        }
+      ]
+    },
+    {
+      "id": "10013",
+      "orderNumber": "20013",
+      "customerId": "1009",
+      "products": [
+        {
+          "productId": "1011",
+          "amount": "3"
+        }
+      ]
+    },
+    {
+      "id": "10014",
+      "orderNumber": "20014",
+      "customerId": "1012",
+      "products": [
+        {
+          "productId": "1011",
+          "amount": "3"
+        }
+      ]
+    },
+    {
+      "id": "10015",
+      "orderNumber": "20015",
+      "customerId": "1009",
+      "products": [
+        {
+          "productId": "1011",
+          "amount": "9"
+        }
+      ]
+    }
+  ]
+}
